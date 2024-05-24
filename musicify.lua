@@ -4,7 +4,7 @@ if periphemu then -- probably on CraftOS-PC
 end
 
 settings.load()
-local repo = settings.get("musicify.repo","https://raw.githubusercontent.com/omrion/musicify-songs/main/index.json")
+local repo = settings.get("musicify.repo","https://github.com/INEEDCHATPROGRAAAAAMS/MusicFiles/raw/main/index.json")
 local autoUpdates = settings.get("musicify.autoUpdates",true)
 local modemBroadcast = settings.get("musicify.broadcast", true)
 local dfpwm = require("cc.audio.dfpwm")
