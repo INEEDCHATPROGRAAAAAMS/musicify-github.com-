@@ -11,7 +11,7 @@ Musicify is a command line utility for ComputerCraft:Tweaked to stream\* songs i
 To install, run
 
 ```shell
-wget run https://raw.githubusercontent.com/knijn/musicify/main/install.lua
+wget run https://github.com/INEEDCHATPROGRAAAAAMS/musicify-github.com-/raw/main/install.lua
 ```
 
 It should only take 13kB of data on your ComputerCraft computer.
